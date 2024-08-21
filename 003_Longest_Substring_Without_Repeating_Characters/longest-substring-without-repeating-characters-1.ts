@@ -1,4 +1,4 @@
-function lengthOfLongestSubstring(s: string): number {
+function lengthOfLongestSubstring1(s: string): number {
   if (s.length === 1) {
     return 1;
   }
